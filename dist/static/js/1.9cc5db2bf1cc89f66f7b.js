@@ -1,0 +1,2 @@
+webpackJsonp([1],{OUfv:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("h1",{staticClass:"home-head"},[this._v("首页")]),this._v(" "),t("p",[this._v("\n    欢迎来到网页管理页面    ")])])}]};var i=n("VU/8")({name:"home"},s,!1,function(e){n("QQp5")},null,null);t.default=i.exports},QQp5:function(e,t){}});
+//# sourceMappingURL=1.9cc5db2bf1cc89f66f7b.js.map
